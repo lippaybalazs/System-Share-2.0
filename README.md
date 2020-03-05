@@ -1,6 +1,10 @@
 # System-Share-2.0
 The remake of the original System Share, simply a more stable and better version.
 
+System Share is (at the moment) a windows application that allows the user to merge the interface of multiple computers on a network.
+The user needs ONE keyboard and ONE mouse to control any number of computers.
+
+
 ## Features from orignal
 The remake includes all but one feature from the original:
 #### Included:
@@ -12,7 +16,7 @@ The remake includes all but one feature from the original:
 - automated bounding of mouse to host when foreground windows is in fullscreen, with exclusions
   
 #### Excluded:
-- the overwriting of default Windows display orientation on the Host machine (due to it being unnecessary and awkward)
+- the overwriting of default Windows display orientation on the Host machine (removed due to it being unnecessary and awkward)
 
 ## New Features:
 - new network with dynamic packet size
