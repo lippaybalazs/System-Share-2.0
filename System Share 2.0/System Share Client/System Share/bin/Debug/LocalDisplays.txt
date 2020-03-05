@@ -1,0 +1,1 @@
+Width: 1024 Height: 768 X: 0 Y: 0

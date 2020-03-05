@@ -1,0 +1,11 @@
+C:\Users\LippayBalazs\Desktop\System Share\System Share 2.0\System Share Host\System Share\bin\Debug\System Share.exe.config
+C:\Users\LippayBalazs\Desktop\System Share\System Share 2.0\System Share Host\System Share\bin\Debug\System Share.exe
+C:\Users\LippayBalazs\Desktop\System Share\System Share 2.0\System Share Host\System Share\bin\Debug\System Share.pdb
+C:\Users\LippayBalazs\Desktop\System Share\System Share 2.0\System Share Host\System Share\obj\Debug\System Share.csprojAssemblyReference.cache
+C:\Users\LippayBalazs\Desktop\System Share\System Share 2.0\System Share Host\System Share\obj\Debug\System Share.csproj.CoreCompileInputs.cache
+C:\Users\LippayBalazs\Desktop\System Share\System Share 2.0\System Share Host\System Share\obj\Debug\System Share.exe
+C:\Users\LippayBalazs\Desktop\System Share\System Share 2.0\System Share Host\System Share\obj\Debug\System Share.pdb
+C:\Users\LippayBalazs\Desktop\System Share\System Share 2.0\System Share Host\System Share\obj\Debug\System Share.csproj.GenerateResource.cache
+C:\Users\LippayBalazs\Desktop\System Share\System Share 2.0\System Share Host\System Share\obj\Debug\System_Share.Win_MainController.resources
+C:\Users\LippayBalazs\Desktop\System Share\System Share 2.0\System Share Host\System Share\obj\Debug\System_Share.Win_InputManager.resources
+C:\Users\LippayBalazs\Desktop\System Share\System Share 2.0\System Share Host\System Share\obj\Debug\System_Share.Win_GUI.resources
