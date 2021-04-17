@@ -1,3 +1,5 @@
+# Authors note: This software is, at the moment, no longer being developed, droped due to lack of personal need for it. Will return in case my setup changes to a multy-computer one.
+
 # System-Share-1.0
 https://github.com/lippaybalazs/System-Share
 
